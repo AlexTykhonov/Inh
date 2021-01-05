@@ -1,0 +1,6 @@
+
+Nsquid:S1481"+Remove this unused "weight" local variable.(ä¯Ôûÿÿÿÿ8Ş¸ˆ—í.
+Ksquid:S1481"(Remove this unused "sex" local variable.(ñµÿ™ûÿÿÿÿ8Ş¸ˆ—í.
+Fsquid:S1481"(Remove this unused "age" local variable.(…ä™8Ş¸ˆ—í.
+Gsquid:S1481")Remove this unused "name" local variable.(Ê§…ñ8¬®†—í.
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(î°ğ‹üÿÿÿÿ8ìÖˆ—í.
